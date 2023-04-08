@@ -777,3 +777,946 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilea5Gguu\thumbnails) because it does not exist
+1680657008636	Marionette	INFO	Stopped listening on port 64436
+Dynamically enable window occlusion 1
+aScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileJihC8a\thumbnails) because it does not exist
+1680657007796	Marionette	INFO	Stopped listening on port 51753
+Dynamically enable window occlusion 1
+ning on ws://127.0.0.1:59222
+1680645644108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileFCscyV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59222/devtools/browser/8c47a974-dab7-418e-8088-c6704c4eabd8
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+[Parent 23164, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+[Child 29384, MediaDecoderStateMachine #1] WARNING: 235dca779b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofileFCscyV\thumbnails) because it does not exist
+1680653897280	Marionette	INFO	Stopped listening on port 59230
+Dynamically enable window occlusion 1
+1680656837402	geckodriver	INFO	Listening on 127.0.0.1:49725
+1680656840459	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileLAlHVj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680656840749	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680656840753	Marionette	INFO	Listening on port 49734
+Read port: 49734
+WebDriver BiDi listening on ws://127.0.0.1:49726
+1680656840865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileLAlHVj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49726/devtools/browser/76f8ed5c-fb76-4f2f-8b00-c6369e002322
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://www.redditstatic.com/reddit-init.en.4-tSxFR4sOk.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680657182403	Marionette	INFO	Stopped listening on port 49734
+Dynamically enable window occlusion 1
+1680657183459	geckodriver	INFO	Listening on 127.0.0.1:49989
+1680657186499	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49990" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilenWl47R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680657186792	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680657186797	Marionette	INFO	Listening on port 49997
+Read port: 49997
+WebDriver BiDi listening on ws://127.0.0.1:49990
+1680657186908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilenWl47R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49990/devtools/browser/aed3baf1-e875-4521-b6f9-47f3e72f2bb8
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://www.redditstatic.com/reddit-init.en.4-tSxFR4sOk.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenWl47R\thumbnails) because it does not exist
+console.error: "Unable to find target with innerWindowId:6442450954"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680748173259	Marionette	INFO	Stopped listening on port 49997
+Dynamically enable window occlusion 1
+NGS_DEVTOOLS=1 in the environment
+1680746235785	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680746235790	Marionette	INFO	Listening on port 57350
+Read port: 57350
+WebDriver BiDi listening on ws://127.0.0.1:57343
+1680746235905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileZRPzH8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57343/devtools/browser/c646401c-1413-48dd-ae7b-26b202abb76a
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://www.redditstatic.com/reddit-init.en.4-tSxFR4sOk.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680746914581	Marionette	INFO	Stopped listening on port 57350
+Dynamically enable window occlusion 1
+[Parent 31196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+[Parent 31196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/comconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilerOuWBt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57852/devtools/browser/ea2e9889-7f50-475e-8c43-fd4625f55581
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://www.redditstatic.com/reddit-init.en.4-tSxFR4sOk.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://old.reddit.com."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680747262215	Marionette	INFO	Stopped listening on port 57861
+Dynamically enable window occlusion 1
+1680747411392	geckodriver	INFO	Listening on 127.0.0.1:58261
+1680747414451	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58262" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilelznj4a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680747414728	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680747414734	Marionette	INFO	Listening on port 58270
+Read port: 58270
+WebDriver BiDi listening on ws://127.0.0.1:58262
+1680747414835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilelznj4a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58262/devtools/browser/0cd9dbcd-4f5f-4b90-a863-987e1c024432
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680747539307	Marionette	INFO	Stopped listening on port 58270
+Dynamically enable window occlusion 1
+1680747540611	geckodriver	INFO	Listening on 127.0.0.1:58400
+1680747543667	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofile15JKhv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680747543946	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680747543950	Marionette	INFO	Listening on port 58409
+Read port: 58409
+WebDriver BiDi listening on ws://127.0.0.1:58401
+1680747544051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofile15JKhv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58401/devtools/browser/967bab6f-be26-41c0-93b1-ee511de99527
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680748174177	Marionette	INFO	Stopped listening on port 58409
+Dynamically enable window occlusion 1
+ervices.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680747636810	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680747636816	Marionette	INFO	Listening on port 58555
+WebDriver BiDi listening on ws://127.0.0.1:58547
+Read port: 58555
+1680747636970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofiled9XVHg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58547/devtools/browser/b1f0a47a-0d7b-4a4f-9192-1254fe53e43d
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1680748178420	Marionette	INFO	Stopped listening on port 58555
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofiledFB5s4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680747768920	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680747768926	Marionette	INFO	Listening on port 58701
+Read port: 58701
+WebDriver BiDi listening on ws://127.0.0.1:58694
+1680747769085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofiledFB5s4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58694/devtools/browser/3d53c83d-ff29-4479-97be-f068e7ed368c
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1680747780584	Marionette	INFO	Stopped listening on port 58701
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680747787522	geckodriver	INFO	Listening on 127.0.0.1:58759
+1680747790560	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileA51nSt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680747790836	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680747790841	Marionette	INFO	Listening on port 58768
+Read port: 58768
+WebDriver BiDi listening on ws://127.0.0.1:58760
+1680747790944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileA51nSt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58760/devtools/browser/d1764699-9a90-4260-bf56-0fd7ee1c0be3
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Could not record event: " (new TypeError("queryContext is undefined", "resource:///modules/UrlbarController.sys.mjs", 1021))
+console.error: "Could not record event: " (new Error("Event must be defined, unless input was pasted/dropped", "resource:///modules/UrlbarController.sys.mjs", 927))
+1680748180298	Marionette	INFO	Stopped listening on port 58768
+Dynamically enable window occlusion 1
+1680748213653	geckodriver	INFO	Listening on 127.0.0.1:59164
+1680748216720	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilebxj6NM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680748216982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680748216986	Marionette	INFO	Listening on port 59174
+WebDriver BiDi listening on ws://127.0.0.1:59165
+Read port: 59174
+1680748217176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilebxj6NM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59165/devtools/browser/28ea297c-a10f-4587-a4c9-b9108c39eeb0
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1680749945232	Marionette	INFO	Stopped listening on port 59174
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileKhR4M0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680749555152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680749555156	Marionette	INFO	Listening on port 60214
+Read port: 60214
+WebDriver BiDi listening on ws://127.0.0.1:60207
+1680749555270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileKhR4M0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60207/devtools/browser/491ad904-9545-4883-bd2f-c7ad96197ebe
+1680749559957	Marionette	INFO	Stopped listening on port 60214
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680749882445	geckodriver	INFO	Listening on 127.0.0.1:60468
+1680749885474	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofile4KldtX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680749885737	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680749885741	Marionette	INFO	Listening on port 60476
+Read port: 60476
+WebDriver BiDi listening on ws://127.0.0.1:60469
+1680749885850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofile4KldtX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60469/devtools/browser/8f78f04d-e1e7-44e8-8b1b-da59fed8ae7c
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1680749934643	geckodriver	INFO	Listening on 127.0.0.1:60542
+1680749937723	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileB8hlny"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680749937996	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680749938001	Marionette	INFO	Listening on port 60551
+Read port: 60551
+WebDriver BiDi listening on ws://127.0.0.1:60543
+1680749938117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileB8hlny\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60543/devtools/browser/135a6871-5bda-4c26-bde2-ec306e6c9a1c
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+1680749948686	Marionette	INFO	Stopped listening on port 60551
+Dynamically enable window occlusion 1
+[Parent 24236, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1680749975922	geckodriver	INFO	Listening on 127.0.0.1:60610
+1680749978969	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilernHftp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680749979233	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680749979237	Marionette	INFO	Listening on port 60619
+Read port: 60619
+WebDriver BiDi listening on ws://127.0.0.1:60611
+1680749979344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilernHftp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60611/devtools/browser/1d63b20a-72f8-44c3-934d-c6516fa5e32d
+JavaScript warning: https://www.redditstatic.com/accountmanager/login.378734f4dcb22b3962dc.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1680749998317	Marionette	INFO	Stopped listening on port 60619
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680750112512	geckodriver	INFO	Listening on 127.0.0.1:60748
+1680750115552	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilenmzH0O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680750115846	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680750115852	Marionette	INFO	Listening on port 60758
+Read port: 60758
+WebDriver BiDi listening on ws://127.0.0.1:60749
+1680750115957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilenmzH0O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60749/devtools/browser/5794b9ed-cc9f-4027-acfc-d7fb8fadc150
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/reddit-init.en.4-tSxFR4sOk.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450999"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451014/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442451019"
+console.error: "Unable to find target with innerWindowId:6442451019"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to remove some intermediate certificates
+console.error: RemoteSecuritySettings.jsm: 
+  certStorage.addCerts failed: 2147500037
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilenmzH0O\thumbnails) because it does not exist
+h I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680751446762	geckodriver	INFO	Listening on 127.0.0.1:61920
+1680751449808	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilejGwMms"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680751450081	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680751450086	Marionette	INFO	Listening on port 61929
+Read port: 61929
+WebDriver BiDi listening on ws://127.0.0.1:61921
+1680751450203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilejGwMms\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61921/devtools/browser/317ed20b-1d50-4669-b16f-239dfd017a5d
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+[Child 34248, MediaDecoderStateMachine #1] WARNING: 194b2130560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilejGwMms\thumbnails) because it does not exist
+dules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile1Unqr7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile1Unqr7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile1Unqr7\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile1Unqr7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile1Unqr7\thumbnails) because it does not exist
+ils) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilexaRnLa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilexaRnLa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilexaRnLa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilexaRnLa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilexaRnLa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilexaRnLa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilexaRnLa\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilexaRnLa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilexaRnLa\thumbnails) because it does not exist
+umbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilekA5QsI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilekA5QsI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilekA5QsI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilekA5QsI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilekA5QsI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilekA5QsI\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilekA5QsI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilekA5QsI\thumbnails) because it does not exist
+ocal\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofile4P57ph\thumbnails) because it does not exist
+1680917468838	geckodriver	INFO	Listening on 127.0.0.1:57445
+1680917471894	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileJAUlUg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680917472182	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680917472186	Marionette	INFO	Listening on port 57453
+Read port: 57453
+WebDriver BiDi listening on ws://127.0.0.1:57446
+1680917472285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileJAUlUg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57446/devtools/browser/de356a54-a238-4dbb-a81e-09bcb2f113f2
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680918950164	Marionette	INFO	Stopped listening on port 57453
+Dynamically enable window occlusion 1
+
+1680918229001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilegtBLms\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58184/devtools/browser/dfc1519c-e7c3-4484-85fe-99d2bee91968
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1680918948100	geckodriver	INFO	Listening on 127.0.0.1:58784
+1680918951164	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileKMi5v0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680918951515	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680918951520	Marionette	INFO	Listening on port 58794
+Read port: 58794
+WebDriver BiDi listening on ws://127.0.0.1:58785
+1680918951684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileKMi5v0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58785/devtools/browser/92a6e5d3-f2fc-4f30-9f0c-a574fd48683a
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+console.error: "Could not record event: " (new TypeError("queryContext is undefined", "resource:///modules/UrlbarController.sys.mjs", 1021))
+JavaScript warning: https://www.redditstatic.com/reddit-init.en.4-tSxFR4sOk.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680920490042	Marionette	INFO	Stopped listening on port 58794
+Dynamically enable window occlusion 1
+sion 0
+1680920272118	Marionette	INFO	Listening on port 59848
+Read port: 59848
+WebDriver BiDi listening on ws://127.0.0.1:59839
+1680920272230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileW2A9y5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59839/devtools/browser/2f9cfeac-692e-4306-9694-cfdbd41d1dd9
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/reddit-init.en.4-tSxFR4sOk.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1680920487326	Marionette	INFO	Stopped listening on port 59848
+Dynamically enable window occlusion 1
+[Parent 38924, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
