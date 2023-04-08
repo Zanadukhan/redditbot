@@ -17,6 +17,7 @@ account_sid = os.environ['TWILIO_ACCOUNT_SID']
 auth_token = os.environ['TWILIO_AUTH_TOKEN']
 phone_number = os.environ['PHONE_NUMBER']
 redirect_url = 'http://www.example.com/unused/redirect/uri'
+subreddit_list = ['vancouver', 'canada', 'Games', 'CK3AGOT', 'news', 'worldnews']
 
 
 
@@ -41,7 +42,7 @@ driver.find_element(By.CSS_SELECTOR, 'a.Onboarding__usernameSuggestion:nth-child
 driver.find_element(By.CSS_SELECTOR, '#regPassword').send_keys(password)
 driver.find_element(By.CSS_SELECTOR, 'button.AnimatedForm__submitButton:nth-child(3)').click()
 
-user_agent = f'subreddit suscriber 1.0 by /u/{username}'
+
 
 #waits for user to defeat CAPTCHA
 input("Press ENTER after filling CAPTCHA")
@@ -64,6 +65,7 @@ secret_id = str(driver.find_element(By.CSS_SELECTOR, 'table.preftable:nth-child(
 
 app_id = str(driver.find_element(By.CSS_SELECTOR, 'div.app-details:nth-child(3) > h3:nth-child(3)').text)
 
+user_agent = f'subreddit suscriber 1.0 by /u/{username}'
 reddit = praw.Reddit(
     client_id=app_id,
     client_secret=secret_id,
@@ -73,7 +75,8 @@ reddit = praw.Reddit(
 
 )
 
-reddit.subreddit('vancouver, worldnews, news, canada').suscribe()
+for subreddit in subreddit_list:
+    reddit.subreddit(f'{subreddit}').subscribe()
 
 
 client = Client(account_sid, auth_token)
