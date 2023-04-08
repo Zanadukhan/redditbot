@@ -17,7 +17,15 @@ account_sid = os.environ['TWILIO_ACCOUNT_SID']
 auth_token = os.environ['TWILIO_AUTH_TOKEN']
 phone_number = os.environ['PHONE_NUMBER']
 redirect_url = 'http://www.example.com/unused/redirect/uri'
-subreddit_list = ['vancouver', 'canada', 'Games', 'CK3AGOT', 'news', 'worldnews']
+subreddit_list = ['vancouver',
+                  'canada',
+                  'Games',
+                  'CK3AGOT',
+                  'news',
+                  'worldnews',
+                  'AnimalsBeingDerps',
+                  'AnimalsBeingJerks',
+                  'cats']
 
 
 
@@ -50,6 +58,7 @@ driver.find_element(By.CSS_SELECTOR, 'button.AnimatedForm__submitButton:nth-chil
 time.sleep(2)
 driver.refresh()
 
+# opens apps and retrieves app id and secret id
 driver.get('https://www.reddit.com/prefs/apps')
 
 WebDriverWait(driver, 50).until(EC.presence_of_element_located((By.CSS_SELECTOR, "#create-app-button"))).click()
@@ -65,6 +74,8 @@ secret_id = str(driver.find_element(By.CSS_SELECTOR, 'table.preftable:nth-child(
 
 app_id = str(driver.find_element(By.CSS_SELECTOR, 'div.app-details:nth-child(3) > h3:nth-child(3)').text)
 
+# uses PRAW to subscribe to subreddits
+
 user_agent = f'subreddit suscriber 1.0 by /u/{username}'
 reddit = praw.Reddit(
     client_id=app_id,
@@ -77,6 +88,8 @@ reddit = praw.Reddit(
 
 for subreddit in subreddit_list:
     reddit.subreddit(f'{subreddit}').subscribe()
+
+print('Finished Subscribing to Subreddits')
 
 
 client = Client(account_sid, auth_token)
