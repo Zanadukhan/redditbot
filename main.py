@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 random_email = ''
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-password = 'hunter123'
+password = 'hunter123.'
 account_sid = os.environ['TWILIO_ACCOUNT_SID']
 auth_token = os.environ['TWILIO_AUTH_TOKEN']
 phone_number = os.environ['PHONE_NUMBER']
@@ -25,7 +25,8 @@ subreddit_list = ['vancouver',
                   'worldnews',
                   'AnimalsBeingDerps',
                   'AnimalsBeingJerks',
-                  'cats']
+                  'cats',
+                  'britishcolumbia']
 
 
 
@@ -33,7 +34,7 @@ driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()
 
 driver.get('https://www.reddit.com/register/')
 
-for i in range(5):
+for i in range(8):
     random_letter = random.choice(letters)
     random_email += random_letter
 
@@ -96,3 +97,16 @@ client = Client(account_sid, auth_token)
 client.messages.create(body=f'this reddit account username is {username}',
                        from_='+15074797617',
                        to=phone_number)
+
+driver.get('https://mail.google.com')
+driver.find_element(By.CSS_SELECTOR, 'div.feature__chapter__button:nth-child(1) > a:nth-child(1)').click()
+driver.find_element(By.CSS_SELECTOR, '#firstName').send_keys('rand')
+driver.find_element(By.CSS_SELECTOR, '#lastName').send_keys('dom')
+driver.find_element(By.CSS_SELECTOR, '#username').send_keys(random_email)
+driver.find_element\
+    (By.CSS_SELECTOR,
+     '#passwd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > input:nth-child(1)').send_keys(password)
+driver.find_element(By.CSS_SELECTOR,
+                    '#confirm-passwd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > input:nth-child(1)')\
+    .send_keys(password)
+driver.find_element(By.CSS_SELECTOR, '.VfPpkd-LgbsSe-OWXEXe-k8QpJ > div:nth-child(3)').click()

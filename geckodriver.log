@@ -2045,3 +2045,50 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 JavaScript warning: https://www.redditstatic.com/reddit-init.en.4-tSxFR4sOk.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
 JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+1681058181568	geckodriver	INFO	Listening on 127.0.0.1:59339
+1681058184501	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilecoH8mI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681058184760	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681058184765	Marionette	INFO	Listening on port 59349
+WebDriver BiDi listening on ws://127.0.0.1:59340
+Read port: 59349
+1681058184873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofilecoH8mI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59340/devtools/browser/13b400ee-146d-40e7-b9c4-115ed09e0d05
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/reddit-init.en.4-tSxFR4sOk.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/SignUp?biz=false&cc=CA&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S-771372897%3A1681058244649148&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AQMjQ7RylEUBFUY8I9XP7gib5XdstdxOkq4E6_RllpXcVK3qjWwnZQ6NFnDenC1XYsC0SfIUbOzyuw&osid=1&service=mail line 2 > eval line 3046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilecoH8mI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilecoH8mI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilecoH8mI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilecoH8mI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\carson\AppData\Local\Temp\rust_mozprofilecoH8mI\thumbnails) because it does not exist
+lusion 0
+1681075387678	Marionette	INFO	Listening on port 53753
+Read port: 53753
+WebDriver BiDi listening on ws://127.0.0.1:53734
+1681075387790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carson\\AppData\\Local\\Temp\\rust_mozprofileRiHYxJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53734/devtools/browser/4fd26b96-f113-400e-b370-5b4ea370d13c
+JavaScript warning: https://www.redditstatic.com/accountmanager/register.dae87ecb07995b09909a.js, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.bba8089e75056ba87ffe.js, line 1: unreachable code after return statement
